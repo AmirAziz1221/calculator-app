@@ -8,11 +8,7 @@ A simple calculator built with Python, originally developed as a desktop app usi
 
 ## 📸 Preview
 
-*(Add a screenshot of the app here — drag an image into this repo's README on GitHub, or upload one and link it like below)*
-
-```
-![Calculator Screenshot](screenshot.png)
-```
+![Calculator Screenshot](pictures/screenshot.png)
 
 ---
 
@@ -60,7 +56,9 @@ The app will open automatically in your browser at `http://localhost:8501`.
 calculator-app/
 ├── streamlit_app.py     # Main Streamlit application
 ├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
+├── README.md             # Project documentation
+└── pictures/
+    └── screenshot.png     # App preview image
 ```
 
 ---
